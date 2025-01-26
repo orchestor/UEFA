@@ -1,7 +1,3 @@
-以下是 README 文件的内容，适用于你的 **Champions League Knockout Simulator** 项目，包括描述、安装步骤、使用方法等。
-
----
-
 ### **🏆 Champions League Knockout Simulator**
 A graphical simulation of the UEFA Champions League knockout stage, where teams compete in elimination rounds until the final champion is determined.
 
